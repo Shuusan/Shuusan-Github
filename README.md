@@ -69,10 +69,9 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
   </a>
 </p>
 
-Sometimes I do Podcast too!
-<iframe src="https://podcasters.spotify.com/pod/show/joshjoy" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
 For support!
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/shuusan','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+<a href="https://trakteer.id/shuusan" target="_blank">
+  <img src="https://cdn.trakteer.id/images/embed/trbtn-icon.png" alt="応援していただければ嬉しいです！" width="40" />
+</a>
 
 
