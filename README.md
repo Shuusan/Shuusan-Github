@@ -36,28 +36,22 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
 
 <p></p>
 
-
-📦 Some of my projects:
-
-Keyboard Screencast.
-Flutter and C# Tutorial.
-
 📈 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shuusan&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuusan&layout=compact&theme=algolia" />
 </p>
 
 🏆 GitHub Streak:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuusan&theme=algolia" alt="Shuusan" />
 </p>
 
 🔗 Connect with me on social media:
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/_shuusan" target="blank">
     <img align="center" src="https://img.shields.io/twitter/follow/your_twitter_username?style=social" alt="Twitter" />
   </a>
