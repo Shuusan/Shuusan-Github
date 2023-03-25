@@ -71,9 +71,10 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
 
 <p>
   <a href="https://trakteer.id/shuusan" target="_blank">For support!</a>
-</p>
-<a href="https://trakteer.id/shuusan" target="_blank">
-  <img src="https://cdn.trakteer.id/images/embed/trbtn-icon.png" alt="応援していただければ嬉しいです！" width="40" />
+  <a href="https://trakteer.id/shuusan" target="_blank">
+  <img src="https://cdn.trakteer.id/images/embed/trbtn-icon.png" alt="応援していただければ嬉しいです！" width="10" />
 </a>
+</p>
+
 
 
