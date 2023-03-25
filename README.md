@@ -16,7 +16,7 @@ Frameworks/Libraries: [Flutter, NetFramework, TensorFlow etc.]
 
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,.NET, tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dotnet,tensorflow)](https://skillicons.dev)
 
 <p></p>
 
@@ -32,7 +32,7 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
 
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,xd,visualstudio, vscode, arduino, matlab, ros)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,xd,visualstudio,vscode,arduino,matlab,ros)](https://skillicons.dev)
 
 <p></p>
 
