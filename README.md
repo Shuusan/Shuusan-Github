@@ -5,29 +5,37 @@
 🔭 My expertise includes:
 
 Languages: [C#, Dart, Python, C++, etc.]
-<p align="center">
-</p>
+
+<p></p>
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dart,py,cpp)](https://skillicons.dev)
-<p align="center">
-</p>
+
+<p></p>
+
 Frameworks/Libraries: [Flutter, NetFramework, TensorFlow etc.]
-<p align="center">
-</p>
+
+<p></p>
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,.NET, tensorflow)](https://skillicons.dev)
-<p align="center">
-</p>
+
+<p></p>
+
 Databases: [Oracle, Sql Server, Firebase etc.]
-<p align="center">
-</p>
+
+<p></p>
+
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-<p align="center">
-</p>
+
+<p></p>
+
 Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, ROS etc.]
-<p align="center">
-</p>
+
+<p></p>
+
 [![My Skills](https://skillicons.dev/icons?i=postman,xd,visualstudio, vscode, arduino, matlab, ros)](https://skillicons.dev)
-<p align="center">
-</p>
+
+<p></p>
+
 
 📦 Some of my projects:
 
