@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Shuusan! 👋</h1>
+<h1 align="center">👋 Hai, Hello, こんばんは! I'm Shuusan! 👋</h1>
 
 ---
 
@@ -53,7 +53,7 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
 
 <p align="left">
   <a href="https://twitter.com/_shuusan" target="blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/your_twitter_username?style=social" alt="Twitter" />
+    <img align="center" src="https://img.shields.io/twitter/follow/_shuusan?style=social" alt="Twitter" />
   </a>
   
   <a href="https://linkedin.com/in/joshua-alviando-984173176" target="blank">
@@ -68,4 +68,11 @@ Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, 
     <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+Sometimes I do Podcast too!
+<iframe src="https://podcasters.spotify.com/pod/show/joshjoy" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+For support!
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/shuusan','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+
 
