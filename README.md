@@ -4,15 +4,15 @@
 
 🔭 My expertise includes:
 
-Languages: [C#, Dart, Python, C++, etc.]
+Languages: C#, Dart, Python, C++, Go, etc.
 
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dart,py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,py,cpp, go)](https://skillicons.dev)
 
 <p></p>
 
-Frameworks/Libraries: [Flutter, NetFramework, TensorFlow etc.]
+Frameworks/Libraries: Flutter, NetFramework, TensorFlow, etc.
 
 <p></p>
 
@@ -20,7 +20,7 @@ Frameworks/Libraries: [Flutter, NetFramework, TensorFlow etc.]
 
 <p></p>
 
-Databases: [Oracle, Sql Server, Firebase etc.]
+Databases: Oracle, Sql Server, Firebase etc.
 
 <p></p>
 
@@ -28,7 +28,7 @@ Databases: [Oracle, Sql Server, Firebase etc.]
 
 <p></p>
 
-Tools : [Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, ROS etc.]
+Tools : Postman, Adobe XD, Visual Studio, Visual Studio code, Arduino, Matlab, ROS etc.
 
 <p></p>
 
