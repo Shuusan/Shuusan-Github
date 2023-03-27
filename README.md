@@ -8,7 +8,7 @@ Languages: C#, Dart, Python, C++, Go, etc.
 
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dart,py,cpp, go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,py,cpp, golang)](https://skillicons.dev)
 
 <p></p>
 
